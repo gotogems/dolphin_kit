@@ -8,6 +8,4 @@ Gem::Specification.new do |s|
   s.authors  = 'razeos at tossdev'
   s.files    = Dir['lib/**/*']
   s.license  = 'MIT'
-
-  s.add_dependency 'http', '~> 5.1'
 end
